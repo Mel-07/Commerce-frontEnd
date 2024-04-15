@@ -1,0 +1,6 @@
+.header {
+  @apply bg-[#ffff]  flex items-center justify-between border-b-[.001rem] border-[#0000002d];
+}
+.header-list {
+  @apply py-[1rem] hover:border-[#ff7d1a] hover:text-[#000] border-b-[.2rem] border-[#0000]  font-medium cursor-pointer text-[#3b3a3a97] list-none px-2;
+}
